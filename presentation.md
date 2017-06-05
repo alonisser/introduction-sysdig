@@ -125,7 +125,7 @@ sysdig -r analysis.scap.gz -c topconns
 # More functionality
 
 * [Falco](http://www.sysdig.org/falco/) Security monitoring based on sysdig
-* Traces
+* [Tracers](https://sysdig.com/blog/sysdig-tracers/) Tracing performance 
 
 ---
 
